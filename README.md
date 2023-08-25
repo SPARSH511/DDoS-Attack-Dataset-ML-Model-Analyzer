@@ -2,7 +2,9 @@
 The DDoS Attack Prediction System is a Python-based project that incorporates a graphical
 user interface (GUI) using the tkinter library. The system offers functionality for both
 classification and anomaly detection tasks, employing a variety of machine learning
-techniques. Let's delve into a more detailed explanation of the project components and their
+techniques. The user just needs a dataset pertaining to the case like the sample ones 
+provided and then he/she can start their analysis.
+Let's delve into a more detailed explanation of the project components and their
 functionalities.
 # 1. Classification Techniques:
 The system provides the following classification techniques, each assigned with a specific
