@@ -1,11 +1,6 @@
-# ddos_attack_prediction_system
-The DDoS Attack Prediction System is a Python-based project that incorporates a graphical
-user interface (GUI) using the tkinter library. The system offers functionality for both
-classification and anomaly detection tasks, employing a variety of machine learning
-techniques. The user just needs a dataset pertaining to the case like the sample ones 
-provided and then he/she can start their analysis.
-Let's delve into a more detailed explanation of the project components and their
-functionalities.
+# ddos_ml_model_analyzer
+The DDoS ML Model Analyzer is a Python-based project that incorporates a graphical user interface (GUI) using the tkinter library. It enables user to give a .csv dataset related to DDoS attack data and choose best ML model based on analysis of data on available classification and anomaly detection models. 
+Let's delve into a more detailed explanation of the project components and their functionalities.
 # 1. Classification Techniques:
 The system provides the following classification techniques, each assigned with a specific
 number:
