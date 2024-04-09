@@ -1,4 +1,4 @@
-# ddos_ml_model_analyzer
+# DDoS_Attack_ML_Model_Analyzer
 The DDoS ML Model Analyzer is a Python-based project that incorporates a graphical user interface (GUI) using the tkinter library. It enables user to give a .csv dataset related to DDoS attack data and choose best ML model based on analysis of data on available classification and anomaly detection models. 
 Let's delve into a more detailed explanation of the project components and their functionalities.
 # 1. Classification Techniques:
