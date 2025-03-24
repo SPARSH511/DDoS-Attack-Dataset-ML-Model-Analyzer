@@ -48,4 +48,23 @@ The DDoS ML Model Analyzer is a Python-based tool with a Tkinter GUI that allows
 **Purpose:**
 This tool helps users analyze DDoS datasets, predict attacks, classify network traffic, and detect anomalies, improving network security and management.
 
+---
+
+**Steps to Run:** <br>
+1. Clone the repository:
+   ```sh
+   git clone <url_for_this_repository>
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd <project_directory_name>
+   ```
+3. Install required dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+4. Run the application:
+   ```sh
+   python ddos_ml_model_analyzer.py
+   ```
 
